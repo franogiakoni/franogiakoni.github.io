@@ -1,7 +1,7 @@
 #!/bin/zsh
 # Tarea semanal del Mac: lee Google Scholar (desde aquí no hay bloqueo) y sube los cambios a GitHub.
 # GitHub vuelve a publicar la web sola al recibir el cambio.
-# La ejecuta launchd cada lunes a las 08:30 (tools/cl.franogiakoni.cv-scholar.plist).
+# La ejecuta cron todos los días a las 12:30 (crontab -l); solo sube algo si Scholar cambió.
 set -u
 export PATH="/usr/local/bin:/opt/homebrew/bin:/usr/bin:/bin:/usr/sbin:/sbin"
 cd "$(dirname "$0")/.." || exit 1
