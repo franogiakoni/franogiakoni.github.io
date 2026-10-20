@@ -1,0 +1,62 @@
+# Robot del sitio: actualiza los datos cada lunes y publica la web en GitHub Pages.
+name: Actualizar y publicar
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: "0 12 * * 1"   # lunes 12:00 UTC = 09:00 en Chile (horario de verano)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: sitio
+  cancel-in-progress: false
+
+jobs:
+  publicar:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        if: github.event_name != 'push'
+        with:
+          python-version: "3.12"
+
+      - name: Google Scholar (publicaciones y métricas)
+        if: github.event_name != 'push'
+        run: python tools/update_scholar.py || echo "::warning::Scholar no respondió; se mantienen los datos anteriores."
+
+      - name: Prensa (Google Noticias y Bing)
+        if: github.event_name != 'push'
+        run: python tools/update_press.py || echo "::warning::No se pudo actualizar la prensa."
+
+      - name: Guardar cambios en el repositorio
+        if: github.event_name != 'push'
+        run: |
+          git config user.name "Robot del sitio"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/publications.js assets/scholar-stats.js assets/press.js
+          if git diff --cached --quiet; then
+            echo "Sin cambios esta semana."
+          else
+            git commit -m "Actualización automática $(date +%F)"
+            git push
+          fi
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+
+      - id: deploy
+        uses: actions/deploy-pages@v4

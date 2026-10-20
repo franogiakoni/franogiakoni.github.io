@@ -2,8 +2,8 @@
 """Actualiza assets/publications.js y assets/scholar-stats.js desde Google Scholar.
 
 Uso: python3 tools/update_scholar.py
-Lo ejecuta semanalmente launchd (~/Library/LaunchAgents/cl.franogiakoni.cv-scholar.plist).
-Si Scholar bloquea la consulta, no se toca ningún archivo.
+Lo ejecuta cada lunes el robot de GitHub Actions (.github/workflows/sitio.yml).
+Si Scholar bloquea la consulta, no se toca ningún archivo y la web conserva los datos anteriores.
 """
 import html, json, re, sys, time, urllib.request, urllib.parse
 sys.path.insert(0, str(__import__("pathlib").Path(__file__).resolve().parent))
@@ -101,12 +101,4 @@ def main():
 
 
 if __name__ == "__main__":
-    try:
-        main()
-    finally:
-        # La prensa se actualiza aunque Scholar falle.
-        try:
-            import update_press
-            update_press.main()
-        except Exception as e:
-            print("prensa: no se pudo actualizar:", e)
+    main()
