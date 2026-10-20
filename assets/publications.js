@@ -1,4 +1,4 @@
-/* Fuente: Google Scholar (user=eCAw05QAAAAJ), actualizado 2026-10-19. l = línea: esports | gestion | vr | salud */
+/* Fuente: Google Scholar (user=eCAw05QAAAAJ), actualizado 2026-10-20. l = línea: esports | gestion | vr | salud */
 window.PUBS = [
 {
 "id": "PR6Y55bgFSsC",
