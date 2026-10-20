@@ -92,6 +92,17 @@ def main():
            "i10": stats[4] if len(stats) > 4 else None, "records": len(pubs) - 1,
            "perYear": [[y, c] for y, c in list(zip(years, cites))[-6:]]}
 
+    def current(path, marker):
+        p = ROOT / path
+        if not p.exists(): return None
+        txt = p.read_text(encoding="utf-8")
+        try: return json.loads(txt[txt.index(marker) + len(marker): txt.rindex(";")])
+        except ValueError: return None
+    old_stats = current("assets/scholar-stats.js", "window.SCHOLAR = ") or {}
+    if current("assets/publications.js", "window.PUBS = ") == pubs and \
+            {k: v for k, v in old_stats.items() if k != "updated"} == {k: v for k, v in out.items() if k != "updated"}:
+        print(f"Sin cambios en Scholar ({len(pubs)} publicaciones, {out['citations']} citas).")
+        return
     (ROOT / "assets/publications.js").write_text(
         f"/* Fuente: Google Scholar (user={USER}), actualizado {today}. l = línea: esports | gestion | vr | salud */\n"
         "window.PUBS = " + json.dumps(pubs, ensure_ascii=False, indent=0) + ";\n", encoding="utf-8")
