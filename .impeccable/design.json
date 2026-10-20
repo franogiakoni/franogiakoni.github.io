@@ -1,0 +1,14 @@
+{
+  "schema": 1,
+  "theme": "dark",
+  "colors": {
+    "bg": "#151514", "bg2": "#1c1c1a", "bg3": "#242421", "line": "#2f2e2a",
+    "ink": "#efede6", "ink2": "#aeaa9e", "ink3": "#8f8c83",
+    "gold": "#d8b46a", "goldHi": "#f2e1b6",
+    "lineEsports": "#d8b46a", "lineGestion": "#9cc3b2", "lineVr": "#aea6dc", "lineSalud": "#d9a089"
+  },
+  "fonts": { "sans": "Archivo", "data": "Archivo Narrow" },
+  "radii": { "control": "4px", "panel": "4px", "deckCard": "8px" },
+  "ease": "cubic-bezier(.16, 1, .3, 1)",
+  "layout": { "max": "1320px", "gutter": "clamp(16px, 4vw, 56px)" }
+}
