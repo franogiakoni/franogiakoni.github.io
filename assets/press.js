@@ -142,6 +142,13 @@ window.PRESS = [
 "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNajV6MjR4X09xczZzek1WM29wd3pWdkVDYjIyTGtseUowM3NVelluY2VRaHZwUGtCVUcyci1sRHFFcUd4T1pSb21pOEpfTElyZm9OTlJYVC1feUR6ak9tTHFWTjh2M3RlUE9hclhUUVg3WGpMdV9YWFdSU090Z1BsUElDY2xPdGRxZUFvYm1pRmswdnppQzhmcExTTEptX290bEdsQ3daWFdZZw?oc=5"
 },
 {
+"d": "2026-02-19",
+"t": "Los therians bajo la lupa: ¿Qué le pasa al cuerpo al moverse así?",
+"s": "La Nación",
+"k": "prensa",
+"u": "https://www.lanacion.cl/los-therians-bajo-la-lupa-que-le-pasa-al-cuerpo-al-moverse-asi/"
+},
+{
 "d": "2026-01-30",
 "t": "El DT acusado de dirigir con ChatGPT y el debate que sacudió al fútbol",
 "s": "El Rancagüino",
@@ -154,6 +161,13 @@ window.PRESS = [
 "s": "El Heraldo",
 "k": "prensa",
 "u": "https://www.diarioelheraldo.cl/noticia/el-penal-la-lesion-y-la-presion-lo-que-revela-la-ciencia-del-deporte-tras-la-accion-de-cristian-zavala"
+},
+{
+"d": "2026-01-06",
+"t": "Ejercicio durante el embarazo: experto explica mitos, beneficios y 4 tips para asegurar que lo estás haciendo bien",
+"s": "ADN",
+"k": "prensa",
+"u": "https://www.adnradio.cl/2026/01/06/ejercicio-durante-el-embarazo-experto-explica-mitos-beneficios-y-4-tips-para-asegurar-que-lo-estas-haciendo-bien/"
 },
 {
 "d": "2025-12-16",
