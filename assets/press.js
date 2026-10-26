@@ -1,6 +1,13 @@
-/* Apariciones en prensa. Fuente: Google Noticias + entradas manuales ("manual": true). Actualizado 2026-10-20.
+/* Apariciones en prensa. Fuente: Google Noticias + entradas manuales ("manual": true). Actualizado 2026-10-26.
    k = columna | prensa | unab | tv | radio | podcast */
 window.PRESS = [
+{
+"d": "2026-10-21",
+"t": "Ni el Monumental ni la Roja se salvaron: la verdad detrás de las canchas inundadas",
+"s": "G5noticias",
+"k": "columna",
+"u": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPNWZTZ0tOSEJQUks1Z1VPcnRqaG9mQnpFYzdZd2NLNjJFOWc5c2RPOEx2NHRWNHJHNHVtWEE4Q1pRc3MxaVFxSFBTSTVMZUJUclRtRHhybkF3VDYtTkNPczNOYmItRHBDdWFlN3BaVW5ob2daZHpXaXVZNzYxUlFNbGpMdzM3cG55MUJEVVJ3b3lVU2NHZE4zMi1vaEhOY0tyZjMyQlNGZ1NvU0VIT2F2dGxhS3puaTJHdGkzV0tGdS1NU0ZPR2xfYVYtcUFNTThCZzhYUENteUR5MElQd001ODhDRTlLbGt6OEZGYmVZZEVHRS1hQVRWRmlyZ0Y1UFZDZG42V2V5RkExWl8tSTF1dUEtYzNpMGRF?oc=5"
+},
 {
 "d": "2026-10-19",
 "t": "ANFP y 16 años sin pagar patente: la lección que deja Quilín",
@@ -14,6 +21,13 @@ window.PRESS = [
 "s": "G5noticias",
 "k": "columna",
 "u": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOSWNLT0tCcGt6QW55eVloVjB4RGQtUV9NQndsX2xEQVUwQ1dHY01YcXRoNjlOcnF0UDRHLVZ0NWxZY3U1SEJZYmJRdkFtMzNaZHhSelk0cC1uYmFPX21ZTjFiYjRPNHpNeGNiLWRFWFgzWjZQYUExRnk2TlNkN1ZEUmlTa3FMc21mVXFZeGdadU1Rck1CTk1ha0hiM25Ec2o4clU3YmhUQ2Z5SUNucnJraWpYSHZKZG5FVVVwWWNXQ3ppTkI1QWticWhIN1k1YkRDeWVoMTgyUmNISEplMzA2d3J0eVVFLXVOZmZrNUVpUnBid25OQjRqYlhGNEdndw?oc=5"
+},
+{
+"d": "2026-09-23",
+"t": "¿Qué le espera al próximo presidente de la ANFP? La reforma que cambiará el fútbol chileno",
+"s": "El Nortero",
+"k": "prensa",
+"u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOenF2Ti1qa0FHRlJLemlrWm9TLW5taDdEV1phcnI5RXV5NnZvdFY1cFVFSHQzQzljdDBHQldIeGJvWFQzWVA1czFsUVY0UGJyN2N5emkyQ3lsLU10cDVuLTQ0SzNJQmZhT0Z1a3NCaU5FcHA5emxYT2FYQWJsT2h1QkstbFhSZk1rNlFCQmZzOHItQzlmcGtxYzVHSi1pUk5Hd1JTejdiZ1lyazRYT1pma2VCYXBfaWtTMmI2a3VaZGhwMG8?oc=5"
 },
 {
 "d": "2026-09-17",
@@ -112,6 +126,13 @@ window.PRESS = [
 "s": "Diario Digital El Calbucano",
 "k": "prensa",
 "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNajZVSlRhOXV4dnVpSHQxTTZnMk1XbnBuOXlkUDItZUhULWgxalYwM3FrbW5UYVF2c1hGbUM5NmRRcHZFZk9KZkcyY09aZWk5S0RQTnVsQ0cybjh4bUFqYk1YQnJQSlFSeV9oTGZlQVlFU2pwT3V2SWxHMkItT2VxS1BHOC1SdU9DT2I3WE9qUmIwel9HLVVnTHJLV0twZG94R05qcXp3UXVlSUdyakxESFBGaEY2VmlXZTV0Zm5vaE4?oc=5"
+},
+{
+"d": "2026-06-19",
+"t": "Condición física ¿Qué significa realmente estar bien?",
+"s": "Diario El Heraldo Linares",
+"k": "prensa",
+"u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWkNXV040aXdCMndybmVydUpObHRVd0d4QWFvWXJuZzlIZ3F2S2hqZDBCT3JyRVVEY0RteVJuY1dFcnAtdHBwbkV4ZVl1N0tkbG45LTRQLV9kUmVReE9qNk5LYzVHdW9oQW1qVUNEbG5qc0NOai1QNUlBczRtbHRBVTFOeHB1a1FERHFjRkswM0k3d1ZJ?oc=5"
 },
 {
 "d": "2026-04-08",
