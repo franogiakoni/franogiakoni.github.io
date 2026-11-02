@@ -1,6 +1,20 @@
-/* Apariciones en prensa. Fuente: Google Noticias + entradas manuales ("manual": true). Actualizado 2026-10-26.
+/* Apariciones en prensa. Fuente: Google Noticias + entradas manuales ("manual": true). Actualizado 2026-11-02.
    k = columna | prensa | unab | tv | radio | podcast */
 window.PRESS = [
+{
+"d": "2026-10-28",
+"t": "Director de Magíster UNAB expuso en congreso internacional",
+"s": "UNAB - Noticias",
+"k": "unab",
+"u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZ09QZEIyRVMtSnd6djB2Z25pRmZ1N1FBNDVoRC10eWxoZmFCUGNmMENPUmtvNFNscXBlTDhtUFVzLW1hazFZTkxFbDRjUE45VW9WbTNpTzYwc2pIZ1B3S2M0bGVYSGtXN01oNzM2ejdRSzJKMWV6MlpNRzhDYkVCbk00MHNINVdPRi05WHRPUFNjcTk2Rmtqb3h6eThhdG13VVNlamVrLUFDdVp4dEhYalM4bVdCQmJ5eExFdEhETDdtbTg?oc=5"
+},
+{
+"d": "2026-10-27",
+"t": "Niños que dejan de estudiar: el costo oculto del fútbol",
+"s": "G5noticias",
+"k": "columna",
+"u": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQSmZaQWZ3SG5BdlRPbmJGU3hlanJrNHFVcGJQNlBjSUstUi1GSTQwRDlfUFJ5N2Q0OXpjTXpfcklFRlRkVHliVGFKaHlFSnRDQ201d1pGeUNwdkh0Q0dwYkRCWmlkTUFnNDA5eEI3SmNVUFgtdHowT0tYVE9KVm4yRGZ2R2Z6MVlBcUZGcmFFWGlDeFlSUWxXdVRza25xV1I3OHN0clMtTk5ocURKV2w4RDBpQVptTHpKZkNkUENHYVdoemhzV1RlOUFwOE9iekJ5TmpGSVdrM1JwTzhJTDNQUEF5NzZoYUw5QzhvUW10bGNSZjdf?oc=5"
+},
 {
 "d": "2026-10-21",
 "t": "Ni el Monumental ni la Roja se salvaron: la verdad detrás de las canchas inundadas",
