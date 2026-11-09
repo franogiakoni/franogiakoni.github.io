@@ -1,6 +1,13 @@
-/* Apariciones en prensa. Fuente: Google Noticias + entradas manuales ("manual": true). Actualizado 2026-11-02.
+/* Apariciones en prensa. Fuente: Google Noticias + entradas manuales ("manual": true). Actualizado 2026-11-09.
    k = columna | prensa | unab | tv | radio | podcast */
 window.PRESS = [
+{
+"d": "2026-11-04",
+"t": "Rafting: el riesgo que sí se puede administrar",
+"s": "G5noticias",
+"k": "columna",
+"u": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOcVNQTzZSRDRMcnlMT3YxcXVKa2xGSTZMeGtndHpkb2ZmWXhhMF9xRWJiNkw5MmFGZ2l2SjkwbUFQNmhsZm13NXI2ek5xb1FwM2dMQjdkUTlpZGVwaGhKM3Ixb2E1eVpiMXh4cENTcE12cE1WMU9WMVlkOUR0S2tlMURpaWdGZ1poN29GNUtMWUswM2tBM01fTmFIWmpDMmdYUlgzeThBaDhIT1JWOVMtY2hFcV9NV2NwMXUwYno0VWZ0MXl6RUhrVGJ4QU5mQy1Xb2lIa1ZwSkNldzM4bUdIQlhXcjdGSmJR?oc=5"
+},
 {
 "d": "2026-10-28",
 "t": "Director de Magíster UNAB expuso en congreso internacional",
