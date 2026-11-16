@@ -1,11 +1,21 @@
-/* Fuente: Google Scholar (user=eCAw05QAAAAJ), actualizado 2026-10-20. l = línea: esports | gestion | vr | salud */
+/* Fuente: Google Scholar (user=eCAw05QAAAAJ), actualizado 2026-11-16. l = línea: esports | gestion | vr | salud */
 window.PUBS = [
+{
+"id": "L7CI7m0gUJcC",
+"t": "Distance to school and perceived built environment in relation to active school travel among adolescents: evidence from Chile",
+"a": "P Pastén-Hernández, A Morán-Toloza, J Aristegui-Mondaca, ...",
+"v": "Journal of Transport & Health 52, 102465, 2027",
+"c": 0,
+"y": 2027,
+"l": "salud",
+"first": false
+},
 {
 "id": "PR6Y55bgFSsC",
 "t": "The Effect of an Immersive Virtual Reality Physical Activity Intervention on Anthropometric Variables, Physical Fitness, and Blood Pressure in College Students: A Randomized …",
 "a": "A Godoy-Cumillaf, P Fuentes-Merino, J de Souza-Lima, ...",
 "v": "Healthcare 14 (4), 446, 2026",
-"c": 4,
+"c": 5,
 "y": 2026,
 "l": "vr",
 "first": false
@@ -15,7 +25,7 @@ window.PUBS = [
 "t": "Association between physical activity and sleep quality in Chilean children and adolescents from a population based study",
 "a": "J de Souza-Lima, R Yáñez-Sepúlveda, F Giakoni-Ramírez, ...",
 "v": "Discover public health 23 (1), 775, 2026",
-"c": 2,
+"c": 3,
 "y": 2026,
 "l": "salud",
 "first": false
@@ -25,6 +35,26 @@ window.PUBS = [
 "t": "Objective Accuracy in Estimating Repetitions in Reserve in the Back Squat: An Analysis between Experienced vs. Novice Subjects",
 "a": "FAB Droguett, RR Festa, NAT Quintana, J Gomez-Lopez, ÁH Ojeda, ...",
 "v": "Journal of Human Kinetics 102, 145-158, 2026",
+"c": 3,
+"y": 2026,
+"l": "salud",
+"first": false
+},
+{
+"id": "1yQoGdGgb4wC",
+"t": "Machine Learning And Non-Invasive Monitoring Technologies For Training Load Management In Women’s Volleyball: A Scoping Review. Sports, 14 (2)",
+"a": "HG Sanhueza Tapia, F Giakoni-Ramírez, J De Souza-Lima, ...",
+"v": "",
+"c": 3,
+"y": 2026,
+"l": "gestion",
+"first": false
+},
+{
+"id": "NJ774b8OgUMC",
+"t": "Predicting Physical Inactivity in Chilean Adults: A Comparison of Survey-Weighted Logistic Regression and Explainable Machine Learning Models",
+"a": "J de Souza-Lima, R Yáñez-Sepúlveda, F Giakoni-Ramírez, ...",
+"v": "Data 11 (4), 73, 2026",
 "c": 2,
 "y": 2026,
 "l": "salud",
@@ -41,13 +71,13 @@ window.PUBS = [
 "first": false
 },
 {
-"id": "t7zJ5fGR-2UC",
-"t": "Beyond the Classroom: Analyzing the Gap Between Knowledge and Action in Sustainability Within Higher Education Sport Sciences Curricula",
-"a": "FJ Borrego-Balsalobre, A Díaz-Suárez, F Giakoni-Ramírez",
-"v": "Trends in Higher Education, 2026",
+"id": "nrtMV_XWKgEC",
+"t": "Measurement design and the apparent inactivity of women in urban Chile​",
+"a": "J De Souza-Lima, C Farias-Valenzuela, R Yáñez-Sepúlveda, ...",
+"v": "",
 "c": 1,
 "y": 2026,
-"l": "gestion",
+"l": "salud",
 "first": false
 },
 {
@@ -61,6 +91,16 @@ window.PUBS = [
 "first": false
 },
 {
+"id": "t7zJ5fGR-2UC",
+"t": "Beyond the Classroom: Analyzing the Gap Between Knowledge and Action in Sustainability Within Higher Education Sport Sciences Curricula",
+"a": "FJ Borrego-Balsalobre, A Díaz-Suárez, F Giakoni-Ramírez",
+"v": "Trends in Higher Education 5 (3), 61, 2026",
+"c": 1,
+"y": 2026,
+"l": "gestion",
+"first": false
+},
+{
 "id": "tOudhMTPpwUC",
 "t": "Trends and determinants of hospitalizations among diabetic patients in Chile: A 4-year analysis (2019–2022)",
 "a": "J de Souza-Lima, F Giakoni-Ramírez, M Parra-Saldías, M dos Santos, ...",
@@ -71,21 +111,21 @@ window.PUBS = [
 "first": false
 },
 {
-"id": "1yQoGdGgb4wC",
-"t": "Machine Learning and Non-Invasive Monitoring Technologies for Training Load Management in Women’s Volleyball: A Scoping Review",
-"a": "HGS Tapia, F Giakoni-Ramírez, J de Souza-Lima, AD Suarez",
-"v": "Sports 14 (2), 74, 2026",
-"c": 1,
-"y": 2026,
-"l": "gestion",
-"first": false
-},
-{
 "id": "WqliGbK-hY8C",
 "t": "Análisis del Conocimiento Didáctico del Contenido (CDC) en profesores de pedagogía en Educación Física en Chile",
 "a": "CM Strale, S Urra-Águila, P Kahn, J Alarcón-Aguilar, J De Souza-Lima, ...",
 "v": "Retos 75, 572-582, 2026",
 "c": 1,
+"y": 2026,
+"l": "salud",
+"first": false
+},
+{
+"id": "hMsQuOkrut0C",
+"t": "Infrared thermography of the quadriceps during early passive recovery (0-6 min) after incremental exercise in professional female volleyball athletes",
+"a": "J de Souza-Lima, H Sanhueza-Tapia, C Muñoz-Strale, J Alarcón-Aguilar, ...",
+"v": "Acta Gymnica, 2026",
+"c": 0,
 "y": 2026,
 "l": "salud",
 "first": false
@@ -168,16 +208,6 @@ window.PUBS = [
 "c": 0,
 "y": 2026,
 "l": "gestion",
-"first": false
-},
-{
-"id": "nrtMV_XWKgEC",
-"t": "Measurement design and the apparent inactivity of women in urban Chile​",
-"a": "J De Souza-Lima, C Farias-Valenzuela, R Yáñez-Sepúlveda, ...",
-"v": "",
-"c": 0,
-"y": 2026,
-"l": "salud",
 "first": false
 },
 {
@@ -271,16 +301,6 @@ window.PUBS = [
 "first": false
 },
 {
-"id": "NJ774b8OgUMC",
-"t": "Predicting Physical Inactivity in Chilean Adults: A Comparison of Survey-Weighted Logistic Regression and Explainable Machine Learning Models",
-"a": "J de Souza-Lima, R Yáñez-Sepúlveda, F Giakoni-Ramírez, ...",
-"v": "Data 11 (4), 73, 2026",
-"c": 0,
-"y": 2026,
-"l": "salud",
-"first": false
-},
-{
 "id": "tzM49s52ZIMC",
 "t": "PHYSICAL FITNESS AND MENTAL HEALTH: ANALYSIS OF STRESS, ANXIETY AND DEPRESSION IN CHILEAN UNIVERSITY STUDENTS.",
 "a": "C Muñoz-Strale, A Mendiburo-Seguel, J De Souza-Lima, ...",
@@ -298,6 +318,16 @@ window.PUBS = [
 "c": 0,
 "y": 2026,
 "l": "salud",
+"first": false
+},
+{
+"id": "ILKRHgRFtOwC",
+"t": "Conciencia sostenible en los estudiantes de Ciencias del Deporte",
+"a": "JC Sánchez, VM Baños, AD Suárez, FG Ramírez",
+"v": "Objetivos de desarrollo sostenible, sostenibilidad económica del deporte …, 2026",
+"c": 0,
+"y": 2026,
+"l": "gestion",
 "first": false
 },
 {
@@ -325,7 +355,7 @@ window.PUBS = [
 "t": "Supervised machine learning algorithms for the classification of obesity levels using anthropometric indices derived from bioelectrical impedance analysis",
 "a": "R Yáñez-Sepúlveda, A Vásquez-Bonilla, R Olivares, P Olivares, ...",
 "v": "Scientific Reports 15 (1), 30681, 2025",
-"c": 15,
+"c": 17,
 "y": 2025,
 "l": "salud",
 "first": false
@@ -335,7 +365,7 @@ window.PUBS = [
 "t": "Prediction of children’s subjective well-being from physical activity and sports participation using machine learning techniques: evidence from a multinational study",
 "a": "J de Souza-Lima, G Ferrari, R Yáñez-Sepúlveda, F Giakoni-Ramírez, ...",
 "v": "Children 12 (8), 1083, 2025",
-"c": 13,
+"c": 15,
 "y": 2025,
 "l": "salud",
 "first": false
@@ -345,7 +375,7 @@ window.PUBS = [
 "t": "Impact on body composition and physical fitness of an exercise program based on immersive virtual reality: A case report",
 "a": "A Godoy-Cumillaf, P Fuentes-Merino, F Giakoni-Ramírez, ...",
 "v": "Journal of Functional Morphology and Kinesiology 10 (1), 56, 2025",
-"c": 8,
+"c": 9,
 "y": 2025,
 "l": "vr",
 "first": false
@@ -355,7 +385,7 @@ window.PUBS = [
 "t": "Anthropometry, body composition, somatotype and asymmetry of canoe sprint world champion: A case study",
 "a": "R Yáñez-Sepúlveda, CA Herrera-Amante, VJ Clemente-Suárez, ...",
 "v": "Nutrition and Health 31 (1), 31-37, 2025",
-"c": 8,
+"c": 9,
 "y": 2025,
 "l": "salud",
 "first": false
@@ -365,7 +395,7 @@ window.PUBS = [
 "t": "Tendencias iberoamericanas del fitness para 2025: Un estudio comparativo regional",
 "a": "JJ Palos, M Valcarce-Torrente, PC Amaral, S Franco, R Santos-Rocha, ...",
 "v": "Retos 71, 1095-1114, 2025",
-"c": 6,
+"c": 7,
 "y": 2025,
 "l": "gestion",
 "first": false
@@ -511,6 +541,16 @@ window.PUBS = [
 "first": false
 },
 {
+"id": "dTyEYWd-f8wC",
+"t": "PRETIE-Q Spanish Version and Affective-Functional Responses to Age-Based Strength Training in Older Women: An Exploratory Study",
+"a": "E Jofré-Saldía, RR Festa, Á Huerta Ojeda, AA Candia, ...",
+"v": "Healthcare 13 (23), 3000, 2025",
+"c": 1,
+"y": 2025,
+"l": "salud",
+"first": false
+},
+{
 "id": "9vf0nzSNQJEC",
 "t": "Socioeconomic factors, rurality, and their impact on academic and physical performance in Chilean students",
 "a": "J Souza-Lima, R Yáñez-Sepúlveda, F Giakoni-Ramírez, C Muñoz-Strale, ...",
@@ -555,16 +595,6 @@ window.PUBS = [
 "t": "Effects of a Walking-Based Physical Activity Intervention on Health Indicators in University Students: Protocol for a Randomized Controlled Trial",
 "a": "A Godoy-Cumillaf, P Fuentes-Merino, F Giakoni-Ramírez, C Muñoz-Strale, ...",
 "v": "JMIR Research Protocols 14 (1), e83983, 2025",
-"c": 0,
-"y": 2025,
-"l": "salud",
-"first": false
-},
-{
-"id": "dTyEYWd-f8wC",
-"t": "PRETIE-Q Spanish Version and Affective-Functional Responses to Age-Based Strength Training in Older Women: An Exploratory Study",
-"a": "E Jofré-Saldía, RR Festa, Á Huerta Ojeda, AA Candia, ...",
-"v": "Healthcare 13 (23), 3000, 2025",
 "c": 0,
 "y": 2025,
 "l": "salud",
@@ -685,19 +715,9 @@ window.PUBS = [
 "t": "Condición Física, Actividad Física y Calidad de Vida en Estudiantes Universitarios Chilenos (Physical Fitness, Physical Activity and Quality of Life in Chilean College Students)",
 "a": "CM Strale, F Giakoni-Ramírez, F Pinochet, A Godoy-Cumillaf, ...",
 "v": "Retos 56, 521-530, 2024",
-"c": 33,
+"c": 34,
 "y": 2024,
 "l": "salud",
-"first": false
-},
-{
-"id": "O3NaXMp0MMsC",
-"t": "The effects of a physical activity intervention on adiposity, physical fitness and motor competence: a school-based, non-randomized controlled trial",
-"a": "A Godoy-Cumillaf, P Fuentes-Merino, F Giakoni-Ramírez, ...",
-"v": "Children 11 (1), 137, 2024",
-"c": 12,
-"y": 2024,
-"l": "gestion",
 "first": false
 },
 {
@@ -705,10 +725,30 @@ window.PUBS = [
 "t": "Ripples of change: transforming lives and communities through sport in Colombia",
 "a": "PD Ponciano Núñez, A Lyras, C Matus-Castillo, F Giakoni-Ramírez, ...",
 "v": "Frontiers in Sports and Active Living 6, 1536433, 2024",
-"c": 11,
+"c": 13,
 "y": 2024,
 "l": "gestion",
 "first": false
+},
+{
+"id": "O3NaXMp0MMsC",
+"t": "The effects of a physical activity intervention on adiposity, physical fitness and motor competence: a school-based, non-randomized controlled trial",
+"a": "A Godoy-Cumillaf, P Fuentes-Merino, F Giakoni-Ramírez, ...",
+"v": "Children 11 (1), 137, 2024",
+"c": 13,
+"y": 2024,
+"l": "gestion",
+"first": false
+},
+{
+"id": "4OULZ7Gr8RgC",
+"t": "Encuesta nacional de tendencias en salud y fitness Chile 2024",
+"a": "FG Ramírez, F Pinochet, CM Strale, DD Bastías, RY Sepúlveda, ...",
+"v": "Retos: nuevas tendencias en educación física, deporte y recreación, 903-912, 2024",
+"c": 11,
+"y": 2024,
+"l": "gestion",
+"first": true
 },
 {
 "id": "M05iB0D1s5AC",
@@ -719,16 +759,6 @@ window.PUBS = [
 "y": 2024,
 "l": "gestion",
 "first": false
-},
-{
-"id": "4OULZ7Gr8RgC",
-"t": "Encuesta nacional de tendencias en salud y fitness Chile 2024",
-"a": "FG Ramírez, F Pinochet, CM Strale, DD Bastías, RY Sepúlveda, ...",
-"v": "Retos: nuevas tendencias en educación física, deporte y recreación, 903-912, 2024",
-"c": 9,
-"y": 2024,
-"l": "gestion",
-"first": true
 },
 {
 "id": "ldfaerwXgEUC",
@@ -755,7 +785,7 @@ window.PUBS = [
 "t": "Impacto de la actividad física en el estrés escolar en niños y adolescentes antes del COVID-19: Una revisión sistemática (Impact of physical activity on school-related stress …",
 "a": "J De Souza-Lima, RAY Sepulveda, G Ferrari, F Giakoni-Ramírez, ...",
 "v": "Retos 61, 748-757, 2024",
-"c": 6,
+"c": 7,
 "y": 2024,
 "l": "salud",
 "first": false
@@ -765,7 +795,7 @@ window.PUBS = [
 "t": "Effectiveness of an ecological model-based active transport education program on physical and mental health in high school students (MOV-ES Project): Study protocol for a …",
 "a": "E Merellano-Navarro, A Godoy-Cumillaf, D Collado-Mateo, ...",
 "v": "Healthcare 12 (13), 1259, 2024",
-"c": 5,
+"c": 6,
 "y": 2024,
 "l": "salud",
 "first": false
@@ -881,6 +911,16 @@ window.PUBS = [
 "first": false
 },
 {
+"id": "EkHepimYqZsC",
+"t": "Basic psychological needs during the physical education class in Chilean adolescents",
+"a": "R Yáñez-Sepúlveda, N Barra-González, D Mundaca-Díaz, ...",
+"v": "Retos 58, 783-789, 2024",
+"c": 1,
+"y": 2024,
+"l": "salud",
+"first": false
+},
+{
 "id": "pqnbT2bcN3wC",
 "t": "Protocol Against Sexual Abuse, Harassment, Mistreatment and Discrimination in National Sports Activity: Chilean Model",
 "a": "J de Souza-Lima, F Giakoni-Ramirez, C Muñoz-Strole",
@@ -905,16 +945,6 @@ window.PUBS = [
 "t": "A comprehensive analysis of a patient with anterior interosseous nerve neuropathy",
 "a": "JDS Lima, P Valdivia-Moral, S Mahecha-Matsudo, VKR Matsudo, ...",
 "v": "Revista Cubana de Medicina Militar 53 (4), e024066721-e024066721, 2024",
-"c": 0,
-"y": 2024,
-"l": "salud",
-"first": false
-},
-{
-"id": "EkHepimYqZsC",
-"t": "Basic psychological needs during the physical education class in Chilean adolescents",
-"a": "R Yáñez-Sepúlveda, N Barra-González, D Mundaca-Díaz, ...",
-"v": "Retos 58, 783-789, 2024",
 "c": 0,
 "y": 2024,
 "l": "salud",
@@ -1025,7 +1055,7 @@ window.PUBS = [
 "t": "The association between sedentary behavior, physical activity, and physical fitness with body mass index and sleep time in Chilean girls and boys: a cross-sectional study",
 "a": "A Godoy-Cumillaf, P Fuentes-Merino, C Farías-Valenzuela, ...",
 "v": "Children 10 (6), 981, 2023",
-"c": 33,
+"c": 32,
 "y": 2023,
 "l": "salud",
 "first": false
@@ -1035,7 +1065,7 @@ window.PUBS = [
 "t": "Percepción de estudiantes universitarios sobre el currículo de Educación Física basado en competencias",
 "a": "DD Bastías, JH Almonacid, JDCP Herrera, RA Allimant, CS Yañez, ...",
 "v": "Retos: nuevas tendencias en educación física, deporte y recreación, 547-556, 2023",
-"c": 24,
+"c": 25,
 "y": 2023,
 "l": "gestion",
 "first": false
@@ -1094,7 +1124,7 @@ window.PUBS = [
 "id": "j3f4tGmQtD8C",
 "t": "Bases Pedagógicas, Metodológicas y Didácticas Aplicadas a la Enseñanza del Balonmano: Una Revisión Literaria (2017-2022)",
 "a": "S Espoz-Lazo, C Hinojosa-Torres, C Farías-Valenzuela, ...",
-"v": "Universidad de Murcia, Servicio de Publicaciones, 2023",
+"v": "SPORT TK-Revista EuroAmericana de Ciencias del Deporte, 4-4, 2023",
 "c": 6,
 "y": 2023,
 "l": "salud",
@@ -1255,7 +1285,7 @@ window.PUBS = [
 "t": "Professional esports players: motivation and physical activity levels",
 "a": "F Giakoni-Ramírez, E Merellano-Navarro, D Duclos-Bastías",
 "v": "International journal of environmental research and public health 19 (4), 2256, 2022",
-"c": 164,
+"c": 166,
 "y": 2022,
 "l": "gestion",
 "first": true
@@ -1295,7 +1325,7 @@ window.PUBS = [
 "t": "Uso de áreas verdes para la actividad física: análisis descriptivo en escolares chilenos durante la pandemia por COVID-19",
 "a": "MIB Leal, CF Martínez, NS Soler, FG Ramírez",
 "v": "Retos: nuevas tendencias en educación física, deporte y recreación, 276-284, 2022",
-"c": 18,
+"c": 19,
 "y": 2022,
 "l": "gestion",
 "first": false
@@ -1305,7 +1335,7 @@ window.PUBS = [
 "t": "Effectiveness of teaching mini handball through non-linear pedagogy in different socioeconomic contexts: A pilot study",
 "a": "S Espoz-Lazo, C Farías-Valenzuela, V Reyes-Contreras, ...",
 "v": "International Journal of Environmental Research and Public Health 19 (20), 13002, 2022",
-"c": 13,
+"c": 14,
 "y": 2022,
 "l": "salud",
 "first": false
@@ -1515,7 +1545,7 @@ window.PUBS = [
 "t": "Promoting sustainable mobility: Impact of an urban biking programme on university students",
 "a": "M Adaros-Boye, D Duclos-Bastías, F Giakoni-Ramírez, L Espinoza-Oteiza, ...",
 "v": "Sustainability 13 (22), 12546, 2021",
-"c": 9,
+"c": 8,
 "y": 2021,
 "l": "gestion",
 "first": false
@@ -1612,9 +1642,9 @@ window.PUBS = [
 },
 {
 "id": "_FxGoFyzp5QC",
-"t": "Análisis de la eficacia publicitaria en eventos de esports transmitidos por streaming, mediante técnicas de neuromarketing",
+"t": "Análisis de la eficacia publicitaria en eventos de esports transmitidos por streaming, mediante técnicas de neuromarketing.",
 "a": "FV Giakoni Ramírez",
-"v": "Análisis de la eficacia publicitaria en eventos de esports transmitidos por …, 2021",
+"v": "",
 "c": 0,
 "y": 2021,
 "l": "gestion",
@@ -1648,6 +1678,26 @@ window.PUBS = [
 "c": 1,
 "y": 2020,
 "l": "gestion",
+"first": false
+},
+{
+"id": "vbGhcppDl1QC",
+"t": "European Journal of Government and Economics",
+"a": "D Parra-Camacho, DMD Bastías, FG Ramírez, S López-Carril",
+"v": "European Journal of Government and Economics 9 (2), 155-169, 2020",
+"c": 0,
+"y": 2020,
+"l": "salud",
+"first": false
+},
+{
+"id": "p__nRnzSRKYC",
+"t": "The Role of Institutions and Governance in Sport European Journal of Government and Economics 9 (2), July 2020. European Journal of Government and Economics",
+"a": "P Garcia-del-Barrio, G Rossi, J Bosch, L Fanega, J García, N Hernández, ...",
+"v": "European Journal of Government and Economics 9 (2), 181-199, 2020",
+"c": 0,
+"y": 2020,
+"l": "salud",
 "first": false
 },
 {
@@ -1710,6 +1760,26 @@ window.PUBS = [
 "y": 2012,
 "l": "salud",
 "first": false
+},
+{
+"id": "BwyfMAYsbu0C",
+"t": "PREOPERATIVE VALUE OF PFA-100 IN BARIATIC SURGERY",
+"a": "S Soler, JA Ruano, F Ramirez, M Tapia, VL Peri, JM Bosch, F Fernandez, ...",
+"v": "HAEMATOLOGICA-THE HEMATOLOGY JOURNAL 93, 473-473, 2008",
+"c": 0,
+"y": 2008,
+"l": "salud",
+"first": false
+},
+{
+"id": "EYYDruWGBe4C",
+"t": "ESCUELA INTERNACIONAL DE DOCTORADO",
+"a": "FG Ramírez, DFS Segado, DAM Serrano",
+"v": "",
+"c": 0,
+"y": 0,
+"l": "salud",
+"first": true
 },
 {
 "id": "Mojj43d5GZwC",
