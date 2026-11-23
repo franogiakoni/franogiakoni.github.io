@@ -1,6 +1,13 @@
-/* Apariciones en prensa. Fuente: Google Noticias + entradas manuales ("manual": true). Actualizado 2026-11-09.
+/* Apariciones en prensa. Fuente: Google Noticias + entradas manuales ("manual": true). Actualizado 2026-11-23.
    k = columna | prensa | unab | tv | radio | podcast */
 window.PRESS = [
+{
+"d": "2026-11-10",
+"t": "Chile hará mundial de la inclusión, pero 8 de cada 10 personas con discapacidad no hacen deporte",
+"s": "G5noticias",
+"k": "columna",
+"u": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOVHZicVVGM1NJajZOMXJ5Rk9WdmcxdmlldjZXYXQxaFJSYy01TEN3VURjckw5WmwxMmoyNjNwRnp5Z29mZ09jZWE0a3pqbzN2M0lmZ0tSY3dNME5FOW8tU3poQ25oZkpiNGI3b0Vrek5nbGlpMVMzZzh6Yksxd3JyUnJLZlBqWmtUczN4SUZ3Y3dPWk5mOWQ0THljSzY1RHBDMHdtZm5INU01VG01RHZDOWRLS2RreXRHUE1zUGxwY2tXNFVNaFk4MFdueVlVX1U1ZUJYV05OaTNfbnFIY2JvNDQwLWZBU1ZyZF9PU0JjSXAwX2NydmkyNzVuaUNBLUtoNEQtT3NBWmoxbTR3UTdadWNKSUNtMHFPTlZ0V0YwUFAxLWwxZndEYmlTRQ?oc=5"
+},
 {
 "d": "2026-11-04",
 "t": "Rafting: el riesgo que sí se puede administrar",
@@ -224,6 +231,13 @@ window.PRESS = [
 "s": "Noticias UNAB",
 "k": "unab",
 "u": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4yYm03cmVuZ2NpcGdXZ2pYVXVXcDg0RHhqS0dITkp4ckN4bXk5dFYweTZKbDNLc3d2Tkp2T0FfN093Y2VJZGZqVEl0SVZaLV9NNGxXb2t1MGp1WmZWN3pSS29ZNjZtVGlGNkcxTEJGWDdHUXhxVmhseDMzOUg?oc=5"
+},
+{
+"d": "2025-11-27",
+"t": "Promulgan ley que moverá a todos los colegios de Chile: 60 minutos diarios de deporte ya son obligatorios",
+"s": "G5noticias",
+"k": "columna",
+"u": "https://news.google.com/rss/articles/CBMivAJBVV95cUxOaDJ1VkYzUDNQcmxvMUtlQ2w3UEJtRWJLaHVYQTFSUUx4c3NqLXllTE1IMThFR18wX25IT0ZmU1FpZVctY2NueEZWUENZcUY5OUtVNnFRM2Rwa3RobmdmRzM2UWRyVDBYTzJCbDduSWUtUGo0aHlYcEhOYXNxenQ4WjNpU0Y1VVRoYzhkVy1Icng2dVFMRWd6VmFQQnNiWk8yeDlHVkVBRV80WUtRRGlzTl9Qc3R4TFNVOUxENTdBaHB1WmlvaXlmVnIyUTN2YlM3RUExallMcDY1VFRhbFoyTHZSNG5kSGl1UjNubEFieVFUQTNlRzZpcDh6RXlDVlBmV0d0Rm53R3A3bWhKVFhfM1BHZGs1ZzZUU1ZleWJjUVNnNlNtTS1iMUhqdkpqdXBnNFlfZ1VuUzdPa3cw?oc=5"
 },
 {
 "d": "2025-11-18",
